@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "sdcore-nms-operator",
+  "versions": [
+    {
+      "commit": "a9099d2d81cde5b2de130bd8f6fdaa87f2a2e0e5",
+      "tag": "",
+      "parsed_at": "2026-11-08T15:00:56.916680+00:00"
+    }
+  ]
+}

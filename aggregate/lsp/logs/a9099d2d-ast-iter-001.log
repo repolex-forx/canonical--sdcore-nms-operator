@@ -1,0 +1,7 @@
+[2026-11-08T14:58:25Z] === AST ITERATION 1 START | repo=canonical/sdcore-nms-operator sha=a9099d2d ===
+[2026-11-08T14:58:25Z] [iter=1] PHASE START: ast repo=canonical/sdcore-nms-operator sha=a9099d2d
+[2026-11-08T14:58:25Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T14:59:25Z] [iter=1] AST chunks built count=1 triples=680306
+[2026-11-08T14:59:25Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/a9099d2d81cde5b2de130bd8f6fdaa87f2a2e0e5/.complete
+[2026-11-08T14:59:25Z] [iter=1] PHASE END: ast elapsed_s=60 elapsed_min=1.0
+[2026-11-08T14:59:25Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
